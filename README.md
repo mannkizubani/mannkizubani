@@ -29,3 +29,6 @@
   </ul>
   
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> and say Hi :) </span></p>
+
+### Support Me
+<a href="https://www.buymeacoffee.com/mannkizubani"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
