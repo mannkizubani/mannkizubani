@@ -41,4 +41,4 @@
 <a href="http://www.github.com/mannkizubani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mannkizubani&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Support Me
-<a href="https://www.buymeacoffee.com/mannkizubani"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/mannkizubani"><im src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
