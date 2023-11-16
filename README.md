@@ -21,9 +21,9 @@
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> I’m currently pursuing (in the order):</span></p>
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Content Marketing course on HubSpot </span></p>
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Upskilling my Graphic Designing and UX/UI skills </span></p>
-- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Basics of web development </span></p>
-<br>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> &nbsp;<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> &nbsp; <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+and
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Basics of web development </span></p>
 
 - 👯 I’m open to collaborate on: Projects that require expertise in content writing/content management, Editing and Proofreading, & Digital Marketing. In addition, am open for graphic designing projects too.
 
