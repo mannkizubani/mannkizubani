@@ -2,7 +2,7 @@
 
 ### Who Am I?:
 
-<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">  <b> My name is Manu Mathur </b> - An India-based full-time writer/blogger currently associated with iOPEX Technologies as a Content Lead. </span></p>
+<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">  <b> My name is Manu Mathur </b> - An India-based full-time content creator/blogger and currently associated with iOPEX Technologies as a Content Lead. </span></p>
 
 <ul>
  	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Experienced content creator, Blogger, & Editor </span></li>
@@ -10,24 +10,22 @@
  	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Loves classical & soft music, reading biographies of tech moguls/other renowned personalities</span></li>
 </ul>
 
-<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Which genre/author is my favorite, you ask? Well, nobody. In music, anything around - classical, instrumentals, or soft music that calms my mind down is my favorite.</span></p>
+<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Which genre/author is my favorite, you ask? Well, nothing in particular. In music, I prefer - classical, instrumentals, or any soft music that calms my mind down.</span></p>
 
-<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> People call me a workaholic, but I call myself a "Hustler." Someone hungry for knowledge and a little motivation.</span></p>
+<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> People call me a workaholic, but I prefer the term "Hustler." Someone hungry for knowledge and a little motivation.</span></p>
 
 ### What's Currently On My Plate:  
 
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> I’m currently setting up SOPs to revamp my Blog: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
 
-- I’m currently pursuing (in the order): <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> I’m currently pursuing (in the order):</span></p>
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Content Marketing course on HubSpot </span></p>
-- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Course on Google Analytics 4 </span></p>
-&nbsp;
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Upskilling my Graphic Designing and UX/UI skills </span></p>
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Grasping the basics of web development </span></p>
 <br>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp; <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> &nbsp; <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> &nbsp;<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> &nbsp; <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a> &nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 
-<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> And basics of UI/UX designing.</span></p>
-
-- 👯 I’m looking to collaborate on: Projects that require expertise in content writing/management/strategizing, Editing, & Digital Marketing
+- 👯 I’m open to collaborate on: Projects that require expertise in content writing/content management, Editing and Proofreading, & Digital Marketing. In addition, am open for graphic designing projects too
 
 - 💬 Ask me about: content writing, blogging, & digital marketing
 
