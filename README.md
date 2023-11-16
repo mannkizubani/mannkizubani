@@ -12,7 +12,7 @@
 
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Which genre/author is my favorite, you ask? Well, nobody. In music, anything around - classical, instrumentals, or soft music that calms my mind down is my favorite.</span></p>
 
-<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> People call me a workaholic, but I call myself a "Hustler." Someone hungry for knowledge & little motivation</span></p>
+<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> People call me a workaholic, but I call myself a "Hustler." Someone hungry for knowledge and a little motivation.</span></p>
 
 ### What's Currently On My Plate:  
 
