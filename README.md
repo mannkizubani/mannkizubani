@@ -16,9 +16,9 @@
 
 ### What's Currently On My Plate:  
 
-- 🔭 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> I’m currently setting up SOPs to revamp my Blog: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> I’m currently setting up SOPs to revamp my Blog: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
 
-- 🌱 I’m currently pursuing (in the order): <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">
+- I’m currently pursuing (in the order): <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Content Marketing course on HubSpot </span></p>
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Course on Google Analytics 4 </span></p>
 &nbsp;
