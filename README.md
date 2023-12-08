@@ -7,10 +7,11 @@
 <ul>
  	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Experienced content creator, Blogger, & Editor </span></li>
  	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Seasoned digital marketer with expertise in SEO, SMM, Content Marketing, & more.</span></li>
- 	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Loves classical & soft music, reading biographies of tech moguls/other renowned personalities</span></li>
 </ul>
 
-<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Which genre/author is my favorite, you ask? Well, nothing in particular. In music, I mostly prefer listening to - 90s Bollywood, Instrumentals, or any soft music that can soothe me down and help me relax.</span></p>
+<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Which music genre/author is my favorite, you ask? Well, nothing in particular. In music, I mostly prefer listening to - 90s Bollywood, Instrumentals, or any soft music that can soothe me down and help me relax.</span></p>
+
+<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> In books, I prefer reading biographies of tech moguls & other personalities. My second category of books are mostly on 'Entrepreneurship' genre to understand basics of running a business and what all it entails.</span></p>
 
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> People call me a workaholic, but I prefer the term "Hustler." Someone hungry for knowledge and a little motivation.</span></p>
 
