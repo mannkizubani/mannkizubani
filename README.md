@@ -7,6 +7,7 @@
 <ul>
  	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Experienced content creator, Blogger, & Editor </span></li>
  	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Seasoned digital marketer with expertise in SEO, SMM, Content Marketing, & more.</span></li>
+  <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Seasoned digital marketer with expertise in SEO, SMM, Content Marketing, & more.</span></li> 
 </ul>
 
 ### Which music genre/author is my favorite, you ask? 
@@ -33,14 +34,13 @@
 <br>
 &nbsp;
 and
-- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Find some time to relearn programming basics to start with Web Development</span></p>
-<br>
-<hr>
-- 👯 I’m open to collaborate on projects that: Requires expertise in content writing/content management, Editing and Proofreading, & Digital Marketing. In addition, am open for graphic designing projects too.
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Relearn Programming basics to start with Web Development</span></p>
 
-- 💬 Ask me anythiing about: content writing, blogging, & digital marketing
+### 2024 Goals:
 
-- 😄 Interests & Hobbies: music, blogging, swimming, playing board games, & lazing around (if time permits) 
+- 👯 Collaborate on projects that: Requires expertise in Content writing/Content management, Editing and Proofreading, & Digital Marketing
+- Become proficient in both "Graphic Designing" & "Web Development" and upskill by working on real projects
+- Assist freshers on: Content writing, Blogging, & Digital Marketing basics
 
 ### Look Me Up On:
 
