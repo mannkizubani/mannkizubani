@@ -18,9 +18,9 @@
 
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Honestly, a lot of things. But if I have to list top 5, they would be the following:</span></p>
 
-- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Formulating SOPs to revamp my Blog: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Formulating SOPs to revamp my WordPress Blog: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
 
-- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> I’m currently pursuing (in the order):</span></p>
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> I’m also trying to finish the ongoing Content Marketing course on HubSpot</span></p>
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Content Marketing course on HubSpot </span></p>
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Upskilling my Graphic Designing and UX/UI skills</span></p
 
