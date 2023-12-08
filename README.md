@@ -2,7 +2,7 @@
 
 ### Who Am I?:
 
-<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">  <b> My name is Manu Mathur </b> - An India-based full-time content creator/blogger and currently associated with iOPEX Technologies as a Content Lead. </span></p>
+<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">  <b> My name is Manu Mathur </b> - An India-based full-time content creator/blogger and currently associated with iOPEX Technologies as a Content Lead.</span></p>
 
 <ul>
  	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Experienced content creator, Blogger, & Editor </span></li>
@@ -10,13 +10,15 @@
  	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Loves classical & soft music, reading biographies of tech moguls/other renowned personalities</span></li>
 </ul>
 
-<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Which genre/author is my favorite, you ask? Well, nothing in particular. In music, I prefer - classical, instrumentals, or any soft music that calms my mind down.</span></p>
+<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Which genre/author is my favorite, you ask? Well, nothing in particular. In music, I mostly prefer listening to - 90s Bollywood, Instrumentals, or any soft music that can soothe me down and help me relax.</span></p>
 
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> People call me a workaholic, but I prefer the term "Hustler." Someone hungry for knowledge and a little motivation.</span></p>
 
-### What's Currently On My Plate:  
+### What's Currently On My Plate:
 
-- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> I’m currently setting up SOPs to revamp my Blog: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Honestly, a lot of things. But if I have to list top 5, they would be the following:</span></p>
+
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Formulating SOPs to revamp my Blog: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
 
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> I’m currently pursuing (in the order):</span></p>
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Content Marketing course on HubSpot </span></p>
