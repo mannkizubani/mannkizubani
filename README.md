@@ -7,7 +7,7 @@
 <ul>
  	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Experienced content creator, Blogger, & Editor </span></li>
  	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Seasoned digital marketer with expertise in SEO, SMM, Content Marketing, & more.</span></li>
-  <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Seasoned digital marketer with expertise in SEO, SMM, Content Marketing, & more.</span></li> 
+  <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Hobbies include - Swimming, Board Games, Tinkering with gadgets</span></li> 
 </ul>
 
 ### Which music genre/author is my favorite, you ask? 
