@@ -27,7 +27,7 @@
 <br>
 &nbsp;
 and
-- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Basics of web development </span></p>
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Find some time to relearn programming basics to start with Web Development</span></p>
 
 - 👯 I’m open to collaborate on projects that: Requires expertise in content writing/content management, Editing and Proofreading, & Digital Marketing. In addition, am open for graphic designing projects too.
 
