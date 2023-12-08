@@ -34,7 +34,7 @@
 <br>
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Relearn Programming basics to start with Web Development</span></p>
 
-### 2024 Goals:
+### Goals for 2024:
 
 - Collaborate on projects that: Requires expertise in Content writing/Content management, Editing and Proofreading, & Digital Marketing
 - Become proficient in both "Graphic Designing" & "Web Development" and upskill by working on real projects
