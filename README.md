@@ -16,7 +16,7 @@
 
 ### What's Currently On My Plate:
 
-- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Honestly, a lot of things. But if I have to list top 5, they would be the following:</span></p>
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Honestly, a lot of things. But if I have to list top 4, they would be the following:</span></p>
 
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Formulating SOPs to revamp my WordPress Blog: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
 
@@ -28,7 +28,8 @@
 &nbsp;
 and
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Find some time to relearn programming basics to start with Web Development</span></p>
-
+<br>
+<hr>
 - 👯 I’m open to collaborate on projects that: Requires expertise in content writing/content management, Editing and Proofreading, & Digital Marketing. In addition, am open for graphic designing projects too.
 
 - 💬 Ask me anythiing about: content writing, blogging, & digital marketing
