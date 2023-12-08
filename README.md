@@ -38,7 +38,7 @@
 
 ### 2024 Goals:
 
-- 👯 Collaborate on projects that: Requires expertise in Content writing/Content management, Editing and Proofreading, & Digital Marketing
+- Collaborate on projects that: Requires expertise in Content writing/Content management, Editing and Proofreading, & Digital Marketing
 - Become proficient in both "Graphic Designing" & "Web Development" and upskill by working on real projects
 - Assist freshers on: Content writing, Blogging, & Digital Marketing basics
 
