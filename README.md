@@ -38,6 +38,7 @@
 
 - Collaborate on projects that require: Expertise in Content writing/Content management, Editing and Proofreading, & Digital Marketing
 - Become proficient in both "Graphic Designing" & "Web Development" and upskill by working on real projects
+- Wrap ongoing Content Marketing course on HubSpot
 - Assist freshers on: Content writing, Blogging, & Digital Marketing basics
 
 ### Look Me Up On:
