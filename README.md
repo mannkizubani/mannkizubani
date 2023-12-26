@@ -23,7 +23,7 @@
 
 ### What's Currently On My Plate:
 
-<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Honestly, a lot of things. But if I have to list top 2, they would be the following:</span></p>
+<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Honestly, a lot of things. But if I have to list top 3, they would be the following:</span></p>
 
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Formulating SOPs to revamp my WordPress Blog: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
 
@@ -31,13 +31,13 @@
 
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop"/></a> &nbsp; <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a> &nbsp; <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> &nbsp; <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <br>
-- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Relearn Programming basics to start with Web Development</span></p>
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Restart learning Programming basics to start with Web Development</span></p>
 
 ### Goals for 2024:
 
 - Collaborate on projects that require: Expertise in Content writing/Content management, Editing and Proofreading, & Digital Marketing
 - Become proficient in both "Graphic Designing" & "Web Development" and upskill by working on real projects
-- Wrap ongoing Content Marketing course on HubSpot
+- Finish the ongoing Content Marketing course on HubSpot
 - Assist freshers on: Content writing, Blogging, & Digital Marketing basics
 
 ### Look Me Up On:
