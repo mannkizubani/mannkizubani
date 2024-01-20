@@ -39,6 +39,7 @@
 - Collaborate on projects that require: Expertise in Content writing/Content management, Editing and Proofreading, & Digital Marketing
 - Become proficient in both "Graphic Designing" & "Web Development" and upskill by working on industry projects and creating a dedicated portfolio
 - Finish the ongoing Content Marketing course on HubSpot
+- Finish the ongoing Google UX Design Professional Certificate
 - Assist freshers on: Content writing, Blogging, & Digital Marketing basics
 
 ### Look Me Up On:
