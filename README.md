@@ -2,7 +2,7 @@
 
 ### Who Am I?:
 
-<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">  <b> My name is Manu Mathur </b></span></p>
+<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> My name is Manu Mathur </b></span></p>
 
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Seasoned Digital Marketing Professional with a penchant for words. People call me a workaholic, but I prefer the term "Hustler." Someone who craves for knowledge and a little motivation.</span></p>
 
@@ -20,8 +20,18 @@
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Experience in training and mentoring junior content creators/editors, etc.</span></li>
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Working knowledge of Adobe Photoshop, Adobe Illustrator, Figma, and Adobe XD</span></li>
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Strong project and task management skills</span></li>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Expertise in copy writing and familiarity with SEO best practices</span></li>	
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Expertise in copy writing and familiarity with SEO best practices</span></li>
 </ul>
+
+### Which Content Formats I Can Help with, You Ask?
+
+<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Given my rich history and experience, I can help you create content in the following formats:</span></p>
+
+<ul>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Blogging and Copywriting: Content Chronicles -</b> Craft compelling blog and PPC Ads content establishing your brand as an industry authority, captivating your audience and driving thought leadership.</span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Case Studies: Success Snapshots -</b> Highlight your company's prowess and triumphs, spotlighting achievements and victories that resonate with your audience.</span></li>
+</ul>
+
 
 ### Which Music Genre/Author is my Favorite, you ask? 
 
