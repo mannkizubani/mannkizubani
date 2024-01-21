@@ -7,19 +7,20 @@
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Seasoned Digital Marketing Professional with a penchant for words. People call me a workaholic, but I prefer the term "Hustler." Someone who is hungry for knowledge and a little motivation.</span></p>
 
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> I primarily cater to B2B and B2C clients and have an expertise in crafting compelling content across diverse industries, including but not limited to the following:</span></p>
-
 <ul>
-	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Technology </span></li>
- <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Healthcare </span></li>
-	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> FinTech</span></li>
- <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> eCommerce </span></li> 
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Technology </span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Healthcare </span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> FinTech</span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> eCommerce </span></li> 
 </ul>
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> and the list continues.</span></p>
 
+<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Few other quick bytes that define me: </span></p>
 <ul>
- 	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Experienced content creator, Blogger, & Editor </span></li>
- 	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Seasoned digital marketer with expertise in SEO, SMM, Content Marketing, & more.</span></li>
-  <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Hobbies include - Swimming, Board Games, Tinkering with gadgets</span></li> 
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Experience in training and mentoring junior content creators/editors, etc.</span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Possess Knowledge of Adobe Photoshop, Adobe Illustrator, Figma, and Adobe XD</span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Strong project and task management skills</span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Expertise in copy writing and familiarity with SEO best practices</span></li>	
 </ul>
 
 ### Which music genre/author is my favorite, you ask? 
