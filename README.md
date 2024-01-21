@@ -2,7 +2,7 @@
 
 ### Who Am I?:
 
-<p style="text-align: center;"><span style="color: #000000; font-family: Cambria;">  <b> My name is Manu Mathur </b></span></p>
+<p style="text-align: centre;"><span style="color: #000000; font-family: Cambria;">  <b> My name is Manu Mathur </b></span></p>
 
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Seasoned Digital Marketing Professional with a penchant for words. People call me a workaholic, but I prefer the term "Hustler." Someone who is hungry for knowledge and a little motivation.</span></p>
 
