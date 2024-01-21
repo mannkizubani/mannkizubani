@@ -15,7 +15,7 @@
 </ul>
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> and the list continues.</span></p>
 
-<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Few other quick bytes that define me: </span></p>
+_<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Few other quick bytes that define me: </span></p>_
 <ul>
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Experience in training and mentoring junior content creators/editors, etc.</span></li>
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Possess Knowledge of Adobe Photoshop, Adobe Illustrator, Figma, and Adobe XD</span></li>
