@@ -6,15 +6,14 @@
 
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Seasoned Digital Marketing Professional with a penchant for words. People call me a workaholic, but I prefer the term "Hustler." Someone who is hungry for knowledge and a little motivation.</span></p>
 
-<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> I cater to B2B and B2C clients and have an expertise in crafting compelling content across diverse industries, including but not limited to the following:</span></p> 
+<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> I primarily cater to B2B and B2C clients and have an expertise in crafting compelling content across diverse industries, including but not limited to the following:</span></p>
 
 <ul>
- 	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Technology </span></li>
+	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Technology </span></li>
  <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Healthcare </span></li>
- 	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> FinTech</span></li>
-  <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> eCommerce </span></li> 
+	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> FinTech</span></li>
+ <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> eCommerce </span></li> 
 </ul>
-
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> and the list continues.</span></p>
 
 <ul>
