@@ -18,9 +18,9 @@
 **_<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Few other quick bytes from my professional experience:</span></p>_**
 <ul>
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Experience in training and mentoring junior content creators/editors, etc.</span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Expertise in copy writing and familiarity with SEO best practices</span></li>
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Working knowledge of Adobe Photoshop, Adobe Illustrator, Figma, and Adobe XD</span></li>
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Strong project and task management skills</span></li>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Expertise in copy writing and familiarity with SEO best practices</span></li>
 </ul>
 
 ### Which Content Formats I Can Help with, You Ask?
@@ -40,6 +40,29 @@
 <br>
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Graphic Designing: Visual Alchemy -</b> Craft visually captivating graphics and images to elevate your digital footprint, effectively communicating with and engaging your audience for a powerful online presence.</span></li>
 </ul>
+
+### Content Portfolio:
+<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Explore my portfolio to witness the dynamic blend of expertise and creativity in every project:</span></p>
+
+<ul>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Blog Content</b></span></li>
+<br>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Copywriting Samples</b></span></li>
+<br>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> </b></span></li>
+<br>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> </b></span></li>
+<br>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> </b></span></li>
+ <br>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> </b></span></li>
+</ul>
+
+
+
+
+
+
 
 
 ### Which Music Genre/Author is my Favorite, you ask? 
