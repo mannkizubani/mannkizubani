@@ -46,17 +46,12 @@
 
 <ul>
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b><a href="https://drive.google.com/drive/u/0/folders/1SMAaxrbRJ6ySI3D7WmNt5kMIrPi5BeEX" target="_blank" rel="noopener"> Blog Content Samples</a></b></span></li>
-
 <br>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Copywriting Samples</b></span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b><a href="https://drive.google.com/drive/u/0/folders/1N3QqvmQwIzHjmd9mJLH7Gy4DGOG8Yah9" target="_blank" rel="noopener"> Copywriting Samples</a></b></span></li>
 <br>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Website Copy and Landing Page Content Samples</b></span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b><a href="https://drive.google.com/drive/u/0/folders/1_VoKgeEVFpw_ShrHOpzZO5iGQ-U5skuk" target="_blank" rel="noopener"> Case Studies and eBooks Content Samples</a></b></span></li>
 <br>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Case Studies and eBooks Content Samples </b></span></li>
-<br>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Webinar Content Samples</b></span></li>
- <br>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Graphic Designing Samples</b></span></li>
+ 
 </ul>
 
 
