@@ -45,7 +45,8 @@
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Explore my portfolio to witness the dynamic blend of expertise and creativity in every project:</span></p>
 
 <ul>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Blog Content Samples</b></span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b><a href="https://drive.google.com/drive/u/0/folders/1SMAaxrbRJ6ySI3D7WmNt5kMIrPi5BeEX" target="_blank" rel="noopener"> Blog Content Samples</a></b></span></li>
+
 <br>
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Copywriting Samples</b></span></li>
 <br>
