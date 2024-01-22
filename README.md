@@ -45,22 +45,18 @@
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Explore my portfolio to witness the dynamic blend of expertise and creativity in every project:</span></p>
 
 <ul>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Blog Content</b></span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Blog Content Samples</b></span></li>
 <br>
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Copywriting Samples</b></span></li>
 <br>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> </b></span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Website Copy and Landing Page Content Samples</b></span></li>
 <br>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> </b></span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Case Studies and eBooks Content Samples </b></span></li>
 <br>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> </b></span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Webinar Content Samples</b></span></li>
  <br>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> </b></span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Graphic Designing Samples</b></span></li>
 </ul>
-
-
-
-
 
 
 
