@@ -60,16 +60,6 @@
 
 
 
-### Which Music Genre/Author is my Favorite, you ask? 
-
-<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Well, as a matter of fact, I am a little selective.</span></p>
- 
- <ul>
- 	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">  In music, I mostly prefer listening to - 90s Bollywood, Instrumentals, or any soft music that can soothe me down and help me relax. </span></li>
- 	<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> In books, I prefer reading biographies of tech moguls & other personalities. My second category of books are mostly on 'Entrepreneurship' genre to understand basics of running a business and what all it entails.</span></li>
-</ul>
-
-<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> </span></p>
 
 ### What's Currently On My Plate:
 
