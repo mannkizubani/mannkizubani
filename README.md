@@ -26,6 +26,8 @@
 
 ### Which Content Formats I Can Help with, You Ask?
 
+![6-Best-Content-Formats](https://github.com/mannkizubani/mannkizubani/assets/10899599/cc6403da-acb2-48a2-bf66-cabc610e3c2a)
+
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Given my rich history and experience, I can help you create content in the following formats:</span></p>
 <ul>
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> Blogging and Copywriting: Content Chronicles -</b> Craft compelling blog and PPC Ads content establishing your brand as an industry authority, captivating your audience and driving thought leadership.</span></li>
