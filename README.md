@@ -1,5 +1,3 @@
-
-
 ### Hi folks, Welcome to my Profile 👋
 
 ### Who Am I?:
