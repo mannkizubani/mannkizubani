@@ -78,7 +78,7 @@
 
 ### Goals for 2024:
 
-- Collaborate on projects that require: Expertise in Content writing/Content management, Editing and Proofreading, & Digital Marketing
+- Collaborate on projects that require: Expertise in Content Writing/Content Management, Editing and Proofreading, & Digital Marketing
 - Become proficient in both "Graphic Designing" & "Web Development" and upskill by working on industry projects and creating a dedicated portfolio
 - Finish the ongoing **Content Marketing course on HubSpot** and **Google UX Design Professional Certificate** via Coursera
 - Assist freshers on: Content writing, Blogging, & Digital Marketing basics
