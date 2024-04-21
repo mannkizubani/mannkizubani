@@ -69,7 +69,7 @@
 
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Creating a new UX/UI for my  WordPress blog: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
 
-- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Creating SOPs to streamline WordPress Blog Post: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Creating SOPs to streamline WordPress Blog post: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
 
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Upskill my Graphic Designing and UX/UI skills</span></p> 
 
