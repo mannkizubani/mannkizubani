@@ -56,7 +56,7 @@
 <br>
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b><a href="https://drive.google.com/drive/u/0/folders/1H1GMIpflHvbFyJxO_uBXbBXjNACE6HFC" target="_blank" rel="noopener"> Website Content and Landing Page Content Samples</a></b></span></li>
 <br>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b><a href="https://drive.google.com/drive/u/0/folders/1H1GMIpflHvbFyJxO_uBXbBXjNACE6HFC" target="_blank" rel="noopener"> White Paper Content Samples</a></b></span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b><a href="https://drive.google.com/drive/folders/1eMwvSSyfBzPggz9j2NVWtFQ1cUgqfbbF" target="_blank" rel="noopener"> White Paper Content Samples</a></b></span></li>
 <br>  
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b><a href="https://drive.google.com/drive/u/0/folders/1l7NwBoNKJqREVTGhHgrSNKYX5cNwe02i" target="_blank" rel="noopener">Webinar Content Samples</a></b></span></li>
 <br>
