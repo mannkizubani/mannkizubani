@@ -13,6 +13,7 @@
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Healthcare </span></li>
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> FinTech</span></li>
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> eCommerce </span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> SaaS (Software-as-a-Service) </span></li>  
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Astrology </span></li>  
 </ul>
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> and the list continues.</span></p>
