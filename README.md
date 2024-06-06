@@ -21,8 +21,8 @@
 <ul>
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Corporate experience in training and mentoring junior content creators/editors, etc.</span></li>
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Expertise in copywriting and familiarity with SEO best practices</span></li>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Working knowledge of Adobe Photoshop, Adobe Illustrator, Figma, and Adobe XD</span></li>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Strong project and task management skills</span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Working knowledge of Adobe Suite (Photoshop, Illustrator, and FrameMaker) alongside Figma and Adobe XD</span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Strong project manaegment and task management skills</span></li>
 </ul>
 
 ### Which Content Formats I Can Help with, You Ask?
@@ -68,7 +68,7 @@
 
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Honestly, a lot of things. But if I have to list top 4, they would be the following:</span></p>
 
-- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Creating a new UX/UI for my  WordPress blog: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Creating a new UX/UI and SOPs for my  WordPress blog: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
 
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Creating SOPs to streamline WordPress Blog post: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
 
