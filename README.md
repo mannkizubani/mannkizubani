@@ -68,7 +68,7 @@
 
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> I am currently investing time on: Honestly, a lot of things. But if I have to list top 4, they would be the following:</span></p>
 
-- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Creating a new UX/UI and SOPs for my  WordPress blog: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Creating **New UX/UI and SOPs** for my  WordPress blog: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
 
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Get Started on **Prompt Engineering for AI Bootcamp** Course</span></p>
 
@@ -82,7 +82,7 @@
 
 - Collaborate on projects that require: Expertise in Content Writing/Content Management, Editing and Proofreading, & Digital Marketing
 - Assist newbies on different aspects of - Content Writing, Blog Writing, and Digital Marketing Basics
-- Become proficient in **Graphic Designing** & **Web Development** and simultaneously upskill by working on industry projects and creating a dedicated portfolio
+- Become proficient in **Graphic Designing** and **Web Development** and simultaneously upskill by working on industry projects and creating a dedicated portfolio
 - Become a Full-Stack Developer by Learning HTML, CSS, Javascript, Node, React, and More
 - Complete **100 Days of Code: The Complete Python Pro Bootcamp** before September 2024
 - Finish the ongoing **Content Marketing course on HubSpot** before September 2024
