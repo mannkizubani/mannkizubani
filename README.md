@@ -70,7 +70,7 @@
 
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Creating New UX/UI and SOPs for my  WordPress blog: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
 
-- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Get Started on **Prompt Engineering for AI Bootcamp** Course</span></p>
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Get Started on Prompt Engineering for AI Bootcamp Course</span></p>
 
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Upskill myself on UX/UI and Graphic Designing</span></p>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop"/></a> &nbsp; <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a> &nbsp; <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> &nbsp; <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
