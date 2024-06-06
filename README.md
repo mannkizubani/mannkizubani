@@ -15,7 +15,7 @@
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> SaaS (Software-as-a-Service) </span></li>  
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Astrology </span></li>  
 </ul>
-<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> and the list continues.</span></p>
+<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> and many more...</span></p>
 
 **_<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Few other quick bytes from my professional experience:</span></p>_**
 <ul>
