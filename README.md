@@ -81,7 +81,7 @@
 - Collaborate on projects that require: Expertise in Content Writing/Content Management, Editing and Proofreading, & Digital Marketing
 - Become proficient in "Graphic Designing" & "Web Development" and upskill by working on industry projects and creating a dedicated portfolio
 - Finish the ongoing **Content Marketing course on HubSpot** and pick up a course on Python from Coursera/edX or any such portals
-- Assist freshers on different aspects of: Content Writing, Blogging, & Digital Marketing Basics
+- Assist freshers on different aspects of - Content Writing, Blog Writing, and Digital Marketing Basics
 - Read at least 6 books before the year end
 
 ### You Can Find Me On:
