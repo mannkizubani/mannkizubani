@@ -19,9 +19,9 @@
 
 **_<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Few other quick bytes from my professional experience:</span></p>_**
 <ul>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Corporate experience in training and mentoring junior content creators/editors, etc.</span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Experience in training and mentoring junior content creators/editors, etc. on different aspects of digital marketing</span></li>
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Expertise in copywriting and familiarity with SEO best practices</span></li>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Working knowledge of Adobe Suite (Photoshop, Illustrator, and FrameMaker) alongside Figma and Adobe XD</span></li>
+<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Working knowledge of Adobe Suite (Photoshop, Illustrator, and FrameMaker) alongside basics of Figma and Adobe XD</span></li>
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Strong project manaegment and task management skills</span></li>
 </ul>
 
