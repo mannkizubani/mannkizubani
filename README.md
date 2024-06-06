@@ -71,22 +71,20 @@
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Creating a new UX/UI and SOPs for my  WordPress blog: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
 
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Upskill UX/UI and Graphic Designing Skills</span></p>
-
-- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Upskill my Graphic Designing and UX/UI skills</span></p> 
-
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop"/></a> &nbsp; <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a> &nbsp; <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> &nbsp; <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <br>
-- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Restart programming basics [with HTML5, CSS3, and JS] to start Web Development</span></p>
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Restart Programming basics [with HTML5, CSS3, JS and Python] to start Web Development</span></p>
 <p style="text-align: center;"> <a href="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a> &nbsp; <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/></a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a></p>
 
 ### Goals for 2024:
 
 - Collaborate on projects that require: Expertise in Content Writing/Content Management, Editing and Proofreading, & Digital Marketing
-- Become proficient in both "Graphic Designing" & "Web Development" and upskill by working on industry projects and creating a dedicated portfolio
-- Finish the ongoing **Content Marketing course on HubSpot** and **Google UX Design Professional Certificate** via Coursera
-- Assist freshers on: Content writing, Blogging, & Digital Marketing basics
+- Become proficient in "Graphic Designing" & "Web Development" and upskill by working on industry projects and creating a dedicated portfolio
+- Finish the ongoing **Content Marketing course on HubSpot** and pick up a course on Python from Coursera/edX or any such portals
+- Assist freshers on different aspects of: Content Writing, Blogging, & Digital Marketing Basics
+- Read at least 6 books before the year end
 
-### Look Me Up On:
+### You Can Find Me On:
 
 <p align="left"> <a href="https://www.facebook.com/mannkizubani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> &nbsp; &nbsp; <a href="http://www.instagram.com/mann_ki_zubani/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/mannkizubani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;&nbsp; <a href="https://www.polywork.com/mannkizubani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> &nbsp; &nbsp; <a href="https://medium.com/@mannkizubani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> &nbsp; &nbsp; <a href="https://www.twitter.com/mannkizubani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
