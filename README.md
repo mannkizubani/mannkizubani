@@ -66,22 +66,26 @@
 
 ### What's Currently On My Plate:
 
-<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Honestly, a lot of things. But if I have to list top 4, they would be the following:</span></p>
+<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> I am currently investing time on: Honestly, a lot of things. But if I have to list top 4, they would be the following:</span></p>
 
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Creating a new UX/UI on Figma and SOPs for my  WordPress blog: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
+
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Get Started on **Prompt Engineering for AI Bootcamp** Course</span></p>
 
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Upskill myself on UX/UI and Graphic Designing</span></p>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop"/></a> &nbsp; <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a> &nbsp; <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> &nbsp; <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <br>
-- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Restarting learning Programming languages primarily - HTML5, CSS3, JS and Python to get expertise in web development</span></p>
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Restart Learning Programming languages primarily - HTML5, CSS3, JS and Python to get expertise in web development</span></p>
 <p style="text-align: center;"> <a href="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a> &nbsp; <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/></a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a></p>
 
 ### Goals for 2024:
 
 - Collaborate on projects that require: Expertise in Content Writing/Content Management, Editing and Proofreading, & Digital Marketing
-- Become proficient in "Graphic Designing" & "Web Development" and upskill by working on industry projects and creating a dedicated portfolio
-- Finish the ongoing **Content Marketing course on HubSpot** and pick up **Python course** from Coursera/edX or a similar portal
 - Assist newbies on different aspects of - Content Writing, Blog Writing, and Digital Marketing Basics
+- Become proficient in **Graphic Designing** & **Web Development** and simultaneously upskill by working on industry projects and creating a dedicated portfolio
+- Become a Full-Stack Developer by Learning HTML, CSS, Javascript, Node, React, and More
+- Complete **100 Days of Code: The Complete Python Pro Bootcamp** before September 2024
+- Finish the ongoing **Content Marketing course on HubSpot** before September 2024
 - Read at least 6 books before 2024 ends
 
 ### You Can Find Me On:
