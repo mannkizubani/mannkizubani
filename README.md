@@ -84,7 +84,7 @@
 - Assist newbies on different aspects of - Content Writing, Blog Writing, and Digital Marketing Basics
 - Become proficient in **Graphic Designing** and **Web Development** and simultaneously upskill by working on industry projects and creating a dedicated portfolio
 - Become a Full-Stack Developer by Learning HTML, CSS, Javascript, Node, React, and More
-- Complete **100 Days of Code: The Complete Python Pro Bootcamp** before September 2024
+- Complete **Full-Stack Web Developer Course** on Udemy before July 2024
 - Finish the ongoing **Content Marketing course on HubSpot** before September 2024
 - Read at least 6 books before 2024 ends
 
