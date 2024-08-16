@@ -70,7 +70,7 @@
 
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Creating New UX/UI and SOPs for my  WordPress blog: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
 
-- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Currently learning **Python** from **The New Boston** on YouTube</span></p>
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Currently learning Python from The New Boston on YouTube</span></p>
 
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Investing time in learning HTML5, CSS3, and JS alongside Python to get expertise in web development</span></p>
 <p style="text-align: center;"> <a href="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a> &nbsp; <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/></a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a></p>
