@@ -85,7 +85,7 @@
 - Assist newbies on different aspects of - Content Writing, Blog Writing, and Digital Marketing Basics
 - Become proficient in **Graphic Designing** and **Web Development** and simultaneously upskill by working on industry projects and creating a dedicated portfolio
 - Become a Full-Stack Developer and have a better grip on **Python** before 2024 ends
-- Finish **Atomic Habits** and 2 more books by December 2024
+- Finish **Atomic Habits** and two more books by December 2024
 
 ### You Can Find Me On:
 
