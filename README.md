@@ -70,23 +70,22 @@
 
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Creating New UX/UI and SOPs for my  WordPress blog: <a href="https://whereispillmythoughts.com/" target="_blank" rel="noopener"> Manu Mathur - Digital Marketer | Blogger</a></span></p>
 
-- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Get Started on Prompt Engineering for AI Bootcamp Course</span></p>
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Currently learning **Python** from **The New Boston** on YouTube</span></p>
+
+- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Investing time in learning HTML5, CSS3, and JS alongside Python to get expertise in web development</span></p>
+<p style="text-align: center;"> <a href="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a> &nbsp; <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/></a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a></p>
 
 - <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Upskill myself on UX/UI and Graphic Designing</span></p>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop"/></a> &nbsp; <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a> &nbsp; <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> &nbsp; <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <br>
-- <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Restart Learning Programming languages primarily - HTML5, CSS3, JS and Python to get expertise in web development</span></p>
-<p style="text-align: center;"> <a href="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a> &nbsp; <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/></a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a></p>
 
 ### Goals for 2024:
 
 - Collaborate on projects that require: Expertise in Content Writing/Content Management, Editing and Proofreading, & Digital Marketing
 - Assist newbies on different aspects of - Content Writing, Blog Writing, and Digital Marketing Basics
 - Become proficient in **Graphic Designing** and **Web Development** and simultaneously upskill by working on industry projects and creating a dedicated portfolio
-- Become a Full-Stack Developer by Learning HTML, CSS, Javascript, Node, React, and More
-- Complete **Full-Stack Web Developer Course** on Udemy before September 2024
-- Finish the ongoing **Content Marketing course on HubSpot** before September 2024
-- Read at least 3 books before 2024 ends
+- Become a Full-Stack Developer and have a better grip on **Python** before 2024 ends
+- Finish **Atomic Habits** and 2 more books by December 2024
 
 ### You Can Find Me On:
 
