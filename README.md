@@ -102,6 +102,10 @@
 
 <a href="http://www.github.com/mannkizubani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mannkizubani&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannkizubani)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ### Support Me
 <a href="https://www.buymeacoffee.com/mannkizubani"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
