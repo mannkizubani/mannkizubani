@@ -25,7 +25,7 @@
 <li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;">Strong project management and task management skills</span></li>
 </ul>
 
-### Which Content Formats I Can Help with, You Ask?
+### Which Content Formats Can I help with?
 
 ![6-Best-Content-Formats](https://github.com/mannkizubani/mannkizubani/assets/10899599/cc6403da-acb2-48a2-bf66-cabc610e3c2a)
 
@@ -86,7 +86,7 @@
 - Become a Full-Stack Developer by Learning HTML, CSS, JavaScript, Node, React, and More
 - Complete **Full-Stack Web Developer Course** on Udemy before July 2024
 - Finish the ongoing **Content Marketing course on HubSpot** before September 2024
-- Read at least 6 books before 2024 ends
+- Read at least 6 books before 2026 ends
 
 ### You Can Find Me On:
 
