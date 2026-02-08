@@ -5,16 +5,10 @@
 
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"><b> My name is Manu Mathur </b></span></p>
 
-<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Seasoned Digital Marketing Professional with a penchant for words. People call me a workaholic, but I prefer the term "Hustler." Someone who craves knowledge and a little motivation.</span></p>
+<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Seasoned Brand Marketer and Digital Marketing Professional with a decade of corporate experience. I am a content creator, a blogger at https://whereispillmythoughts.com/, and a tech enthusiast. </span></p>
+  
+<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Over the years, I have helped more than 1K clients with their brand-building, content-creation, SEO, and other digital marketing requirements. My portfolio includes clients from industries like Tech, Healthcare, FinTech, eCommerce, and Software-as-a-Service (SaaS). </span></p>
 
-<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> I primarily cater to B2B and B2C clients and have an expertise in crafting compelling content across diverse industries, including but not limited to the following:</span></p>
-<ul>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Healthcare </span></li>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> FinTech</span></li>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> eCommerce </span></li>
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> SaaS (Software-as-a-Service) </span></li>  
-<li style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Astrology </span></li>  
-</ul>
 <p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> and many more...</span></p>
 
 **_<p style="text-align: justify;"><span style="color: #000000; font-family: Cambria;"> Few other quick bytes from my professional experience:</span></p>_**
